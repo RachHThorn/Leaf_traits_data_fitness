@@ -1,0 +1,182 @@
+Site,Treatment,Date,Species,Individual nos,Width_1,Width_2,Height,Number leaves,Repro notes,Leaf nos,Leaf weight ,Leaf Area,Method leaf area (App),Spec number,Spec date,Full spec file name,NOTES
+Wytham,CONT,06/04/2025,Primula veris,PV1,5,3,3,4,"1 flower stem, elongated, 5 florets",L1,0.111,4.52,Leaf scan,04,040625,HR.040625.0004.sig,Exhaustive sampling of individual
+Wytham,CONT,06/04/2025,Primula veris,PV1,5,3,3,4,"1 flower stem, elongated, 5 florets",L2,0.089,3.29,Leaf scan,05,040625,HR.040625.0005.sig,Exhaustive sampling of individual
+Wytham,CONT,06/04/2025,Primula veris,PV1,5,3,3,4,"1 flower stem, elongated, 5 florets",L3,0.057,2.51,Leaf scan,06,040625,HR.040625.0006.sig,Exhaustive sampling of individual
+Wytham,CONT,06/04/2025,Primula veris,PV1,5,3,3,4,"1 flower stem, elongated, 5 florets",L4,0.07,2.64,Leaf scan,07,040625,HR.040625.0007.sig,Exhaustive sampling of individual
+Wytham,CONT,06/04/2025,Primula veris,PV2,8,5,5,6,"1 flower stem, elongated, 6 florets",L1,0.095,4.32,Leaf scan,08,040625,HR.040625.0008.sig,Exhaustive sampling of individual
+Wytham,CONT,06/04/2025,Primula veris,PV2,8,5,5,6,"1 flower stem, elongated, 6 florets",L2,0.112,4.19,Leaf scan,09,040625,HR.040625.0009.sig,Exhaustive sampling of individual
+Wytham,CONT,06/04/2025,Primula veris,PV2,8,5,5,6,"1 flower stem, elongated, 6 florets",L3,0.092,3.34,Leaf scan,10,040625,HR.040625.0010.sig,Exhaustive sampling of individual
+Wytham,CONT,06/04/2025,Primula veris,PV2,8,5,5,6,"1 flower stem, elongated, 6 florets",L4,0.043,1.89,Leaf scan,11,040625,HR.040625.0011.sig,Exhaustive sampling of individual
+Wytham,CONT,06/04/2025,Primula veris,PV2,8,5,5,6,"1 flower stem, elongated, 6 florets",L5,0.06,3.16,Leaf scan,12,040625,HR.040625.0012.sig,Exhaustive sampling of individual
+Wytham,CONT,06/04/2025,Primula veris,PV2,8,5,5,6,"1 flower stem, elongated, 6 florets",L6,0.097,3.61,Leaf scan,13,040625,HR.040625.0013.sig,Exhaustive sampling of individual
+Wytham,CONT,06/04/2025,Primula veris,PV3,6,5,3,7,"1 flower stem, elongated, 6 florets",L1,0.063,3.43,Leaf scan,14,040625,HR.040625.0014.sig,Exhaustive sampling of individual
+Wytham,CONT,06/04/2025,Primula veris,PV3,6,5,3,7,"1 flower stem, elongated, 6 florets",L2,0.034,2.29,Leaf scan,15,040625,HR.040625.0015.sig,Exhaustive sampling of individual
+Wytham,CONT,06/04/2025,Primula veris,PV3,6,5,3,7,"1 flower stem, elongated, 6 florets",L3,0.07,2.52,Leaf scan,16,040625,HR.040625.0016.sig,Exhaustive sampling of individual
+Wytham,CONT,06/04/2025,Primula veris,PV3,6,5,3,7,"1 flower stem, elongated, 6 florets",L4,0.057,2.03,Leaf scan,17,040625,HR.040625.0017.sig,Exhaustive sampling of individual
+Wytham,CONT,06/04/2025,Primula veris,PV3,6,5,3,7,"1 flower stem, elongated, 6 florets",L5,0.083,1.95,Leaf scan,18,040625,HR.040625.0018.sig,Exhaustive sampling of individual
+Wytham,CONT,06/04/2025,Primula veris,PV3,6,5,3,7,"1 flower stem, elongated, 6 florets",L6,0.054,1.34,Leaf scan,19,040625,HR.040625.0019.sig,Exhaustive sampling of individual
+Wytham,CONT,06/04/2025,Primula veris,PV3,6,5,3,7,"1 flower stem, elongated, 6 florets",L7,0.068,2.22,Leaf scan,20,040625,HR.040625.0020.sig,Exhaustive sampling of individual
+Wytham,DIST,06/04/2025,Primula veris,PV4,6,4,4,6,"1 flower stem, not elongated, 7 florets",L1,0.084,2.15,Leaf scan,21,040625,HR.040625.0021.sig,Exhaustive sampling of individual
+Wytham,DIST,06/04/2025,Primula veris,PV4,6,4,4,6,"1 flower stem, not elongated, 7 florets",L2,0.116,3.36,Leaf scan,22,040625,HR.040625.0022.sig,Exhaustive sampling of individual
+Wytham,DIST,06/04/2025,Primula veris,PV4,6,4,4,6,"1 flower stem, not elongated, 7 florets",L3,0.142,4.08,Leaf scan,23,040625,HR.040625.0023.sig,Exhaustive sampling of individual
+Wytham,DIST,06/04/2025,Primula veris,PV4,6,4,4,6,"1 flower stem, not elongated, 7 florets",L4,0.156,3.99,Leaf scan,24,040625,HR.040625.0024.sig,Exhaustive sampling of individual
+Wytham,DIST,06/04/2025,Primula veris,PV4,6,4,4,6,"1 flower stem, not elongated, 7 florets",L5,0.04,3.63,Leaf scan,25,040625,HR.040625.0025.sig,Exhaustive sampling of individual
+Wytham,DIST,06/04/2025,Primula veris,PV4,6,4,4,6,"1 flower stem, not elongated, 7 florets",L6,0.078,1.43,Leaf scan,26,040625,HR.040625.0026.sig,Exhaustive sampling of individual
+Wytham,DIST,06/04/2025,Primula veris,PV5,5,3,2,5,no flower stem,L1,0.029,1.5,Leaf scan,29,040625,HR.040625.0029.sig,Exhaustive sampling of individual
+Wytham,DIST,06/04/2025,Primula veris,PV5,5,3,2,5,no flower stem,L2,0.025,1.23,Leaf scan,30,040625,HR.040625.0030.sig,Exhaustive sampling of individual
+Wytham,DIST,06/04/2025,Primula veris,PV5,5,3,2,5,no flower stem,L3,0.042,2.17,Leaf scan,31,040625,HR.040625.0031.sig,Exhaustive sampling of individual
+Wytham,DIST,06/04/2025,Primula veris,PV5,5,3,2,5,no flower stem,L4,0.06,1.96,Leaf scan,32,040625,HR.040625.0032.sig,Exhaustive sampling of individual
+Wytham,DIST,06/04/2025,Primula veris,PV5,5,3,2,5,no flower stem,L5,0.058,2.55,Leaf scan,33,040625,HR.040625.0033.sig,Exhaustive sampling of individual
+Wytham,DIST,06/04/2025,Primula veris,PV6,5,4,2.5,10,"1 flower stem, not elongated, 6 florets",L1,0.064,2.08,Leaf scan,34,040625,HR.040625.0034.sig,Exhaustive sampling of individual
+Wytham,DIST,06/04/2025,Primula veris,PV6,5,4,2.5,10,"1 flower stem, not elongated, 6 florets",L2,0.053,1.48,Leaf scan,35,040625,HR.040625.0035.sig,Exhaustive sampling of individual
+Wytham,DIST,06/04/2025,Primula veris,PV6,5,4,2.5,10,"1 flower stem, not elongated, 6 florets",L3,0.025,0.93,Leaf scan,36,040625,HR.040625.0036.sig,Exhaustive sampling of individual
+Wytham,DIST,06/04/2025,Primula veris,PV6,5,4,2.5,10,"1 flower stem, not elongated, 6 florets",L4,0.023,1.02,Leaf scan,37,040625,HR.040625.0037.sig,Exhaustive sampling of individual
+Wytham,DIST,06/04/2025,Primula veris,PV6,5,4,2.5,10,"1 flower stem, not elongated, 6 florets",L5,0.024,0.83,Leaf scan,38,040625,HR.040625.0038.sig,Exhaustive sampling of individual
+Wytham,DIST,06/04/2025,Primula veris,PV6,5,4,2.5,10,"1 flower stem, not elongated, 6 florets",L6,0.076,2.54,Leaf scan,39,040625,HR.040625.0039.sig,Exhaustive sampling of individual
+Wytham,DIST,06/04/2025,Primula veris,PV6,5,4,2.5,10,"1 flower stem, not elongated, 6 florets",L7,0.063,3,Leaf scan,40,040625,HR.040625.0040.sig,Exhaustive sampling of individual
+Wytham,DIST,06/04/2025,Primula veris,PV6,5,4,2.5,10,"1 flower stem, not elongated, 6 florets",L8,0.039,1.41,Leaf scan,41,040625,HR.040625.0041.sig,Exhaustive sampling of individual
+Wytham,DIST,06/04/2025,Primula veris,PV6,5,4,2.5,10,"1 flower stem, not elongated, 6 florets",L9,0.075,2.54,Leaf scan,42,040625,HR.040625.0042.sig,Exhaustive sampling of individual
+Wytham,DIST,06/04/2025,Primula veris,PV6,5,4,2.5,10,"1 flower stem, not elongated, 6 florets",L10,0.046,1.12,Leaf scan,43,040625,HR.040625.0043.sig,Exhaustive sampling of individual
+Wytham,NPK,06/04/2025,Primula veris,PV7,6,3,2.5,6,"1 flower stem, not elongated, 5 florets",L1,0.084,2.46,Leaf scan,44,040625,HR.040625.0044.sig,Exhaustive sampling of individual
+Wytham,NPK,06/04/2025,Primula veris,PV7,6,3,2.5,6,"1 flower stem, not elongated, 5 florets",L2,0.044,1.53,Leaf scan,45,040625,HR.040625.0045.sig,Exhaustive sampling of individual
+Wytham,NPK,06/04/2025,Primula veris,PV7,6,3,2.5,6,"1 flower stem, not elongated, 5 florets",L3,0.115,3.14,Leaf scan,46,040625,HR.040625.0046.sig,Exhaustive sampling of individual
+Wytham,NPK,06/04/2025,Primula veris,PV7,6,3,2.5,6,"1 flower stem, not elongated, 5 florets",L4,0.076,2.56,Leaf scan,47,040625,HR.040625.0047.sig,Exhaustive sampling of individual
+Wytham,NPK,06/04/2025,Primula veris,PV7,6,3,2.5,6,"1 flower stem, not elongated, 5 florets",L5,0.0086,2.35,Leaf scan,48,040625,HR.040625.0048.sig,Exhaustive sampling of individual
+Wytham,NPK,06/04/2025,Primula veris,PV7,6,3,2.5,6,"1 flower stem, not elongated, 5 florets",L6,0.11,3.89,Leaf scan,49,040625,HR.040625.0049.sig,Exhaustive sampling of individual
+Wytham,NPK,06/04/2025,Primula veris,PV8,6,4,3,5,"1 flower stem, not elongated, 6 florets",L1,0.051,1.18,Leaf scan,50,040625,HR.040625.0050.sig,Exhaustive sampling of individual
+Wytham,NPK,06/04/2025,Primula veris,PV8,6,4,3,5,"1 flower stem, not elongated, 6 florets",L2,0.099,2.72,Leaf scan,51,040625,HR.040625.0051.sig,Exhaustive sampling of individual
+Wytham,NPK,06/04/2025,Primula veris,PV8,6,4,3,5,"1 flower stem, not elongated, 6 florets",L3,0.129,3.45,Leaf scan,52,040625,HR.040625.0052.sig,Exhaustive sampling of individual
+Wytham,NPK,06/04/2025,Primula veris,PV8,6,4,3,5,"1 flower stem, not elongated, 6 florets",L4,0.067,1.96,Leaf scan,53,040625,HR.040625.0053.sig,Exhaustive sampling of individual
+Wytham,NPK,06/04/2025,Primula veris,PV8,6,4,3,5,"1 flower stem, not elongated, 6 florets",L5,0.124,3.5,Leaf scan,54,040625,HR.040625.0054.sig,Exhaustive sampling of individual
+Wytham,NPK,06/04/2025,Primula veris,PV9,6,4,3,7,"1 flower stem, not elongated, 3 florets",L1,0.142,5.42,Leaf scan,55,040625,HR.040625.0055.sig,Exhaustive sampling of individual
+Wytham,NPK,06/04/2025,Primula veris,PV9,6,4,3,7,"1 flower stem, not elongated, 3 florets",L2,0.097,3.09,Leaf scan,56,040625,HR.040625.0056.sig,Exhaustive sampling of individual
+Wytham,NPK,06/04/2025,Primula veris,PV9,6,4,3,7,"1 flower stem, not elongated, 3 florets",L3,0.029,1.87,Leaf scan,57,040625,HR.040625.0057.sig,Exhaustive sampling of individual
+Wytham,NPK,06/04/2025,Primula veris,PV9,6,4,3,7,"1 flower stem, not elongated, 3 florets",L4,0.047,1.52,Leaf scan,58,040625,HR.040625.0058.sig,Exhaustive sampling of individual
+Wytham,NPK,06/04/2025,Primula veris,PV9,6,4,3,7,"1 flower stem, not elongated, 3 florets",L5,0.103,3.14,Leaf scan,59,040625,HR.040625.0059.sig,Exhaustive sampling of individual
+Wytham,NPK,06/04/2025,Primula veris,PV9,6,4,3,7,"1 flower stem, not elongated, 3 florets",L6,0.068,2.35,Leaf scan,60,040625,HR.040625.0060.sig,Exhaustive sampling of individual
+Wytham,NPK,06/04/2025,Primula veris,PV9,6,4,3,7,"1 flower stem, not elongated, 3 florets",L7,0.077,1.66,Leaf scan,61,040625,HR.040625.0061.sig,Exhaustive sampling of individual
+Wytham,NPK_DIST,06/04/2025,Primula veris,PV10,7,7,4,1,"3 flower stems, not elongated, 21 florets total (12, 5, 4)",L1,0.124,2.7,Leaf scan,62,040625,HR.040625.0062.sig,Exhaustive sampling of individual
+Wytham,NPK_DIST,06/04/2025,Primula veris,PV10,7,7,4,2,"3 flower stems, not elongated, 21 florets total (12, 5, 4)",L2,0.185,4.5,Leaf scan,63,040625,HR.040625.0063.sig,Exhaustive sampling of individual
+Wytham,NPK_DIST,06/04/2025,Primula veris,PV10,7,7,4,3,"3 flower stems, not elongated, 21 florets total (12, 5, 4)",L3,0.225,5.2,Leaf scan,64,040625,HR.040625.0064.sig,Exhaustive sampling of individual
+Wytham,NPK_DIST,06/04/2025,Primula veris,PV10,7,7,4,4,"3 flower stems, not elongated, 21 florets total (12, 5, 4)",L4,0.271,8.5,Leaf scan,65,040625,HR.040625.0065.sig,Exhaustive sampling of individual
+Wytham,NPK_DIST,06/04/2025,Primula veris,PV10,7,7,4,5,"3 flower stems, not elongated, 21 florets total (12, 5, 4)",L5,0.191,4.7,Leaf scan,66,040625,HR.040625.0066.sig,Exhaustive sampling of individual
+Wytham,NPK_DIST,06/04/2025,Primula veris,PV10,7,7,4,6,"3 flower stems, not elongated, 21 florets total (12, 5, 4)",L6,0.267,7.5,Leaf scan,67,040625,HR.040625.0067.sig,Exhaustive sampling of individual
+Wytham,NPK_DIST,06/04/2025,Primula veris,PV10,7,7,4,7,"3 flower stems, not elongated, 21 florets total (12, 5, 4)",L7,0.178,4.6,Leaf scan,68,040625,HR.040625.0068.sig,Exhaustive sampling of individual
+Wytham,NPK_DIST,06/04/2025,Primula veris,PV10,7,7,4,8,"3 flower stems, not elongated, 21 florets total (12, 5, 4)",L8,0.119,3.1,Leaf scan,70,040625,HR.040625.0070.sig,Exhaustive sampling of individual
+Wytham,NPK_DIST,06/04/2025,Primula veris,PV10,7,7,4,9,"3 flower stems, not elongated, 21 florets total (12, 5, 4)",L9,0.08,2.4,Leaf scan,71,040625,HR.040625.0071.sig,Exhaustive sampling of individual
+Wytham,NPK_DIST,07/04/2025,Primula veris,PV11,7,5,5,10,"1 flower stem, not elongated, 10 florets",L1,0.0101,2.99,Leaf scan,00,040725,HR.040725.0000.sig,Exhaustive sampling of individual
+Wytham,NPK_DIST,07/04/2025,Primula veris,PV11,7,5,5,10,"1 flower stem, not elongated, 10 florets",L2,0.095,2.66,Leaf scan,01,040725,HR.040725.0001.sig,Exhaustive sampling of individual
+Wytham,NPK_DIST,07/04/2025,Primula veris,PV11,7,5,5,10,"1 flower stem, not elongated, 10 florets",L3,0.171,3.74,Leaf scan,02,040725,HR.040725.0002.sig,Exhaustive sampling of individual
+Wytham,NPK_DIST,07/04/2025,Primula veris,PV11,7,5,5,10,"1 flower stem, not elongated, 10 florets",L4,0.172,NA,Leaf scan,03,040725,HR.040725.0003.sig,Exhaustive sampling of individual
+Wytham,NPK_DIST,07/04/2025,Primula veris,PV11,7,5,5,10,"1 flower stem, not elongated, 10 florets",L5,0.18,4.14,Leaf scan,04,040725,HR.040725.0004.sig,Exhaustive sampling of individual
+Wytham,NPK_DIST,07/04/2025,Primula veris,PV11,7,5,5,10,"1 flower stem, not elongated, 10 florets",L6,0.2,4,Leaf scan,05,040725,HR.040725.0005.sig,Exhaustive sampling of individual
+Wytham,NPK_DIST,07/04/2025,Primula veris,PV11,7,5,5,10,"1 flower stem, not elongated, 10 florets",L7,0.15,4.08,Leaf scan,06,040725,HR.040725.0006.sig,Exhaustive sampling of individual
+Wytham,NPK_DIST,07/04/2025,Primula veris,PV11,7,5,5,10,"1 flower stem, not elongated, 10 florets",L8,0.183,3.94,Leaf scan,07,040725,HR.040725.0007.sig,Exhaustive sampling of individual
+Wytham,NPK_DIST,07/04/2025,Primula veris,PV11,7,5,5,10,"1 flower stem, not elongated, 10 florets",L9,0.191,4.29,Leaf scan,08,040725,HR.040725.0008.sig,Exhaustive sampling of individual
+Wytham,NPK_DIST,07/04/2025,Primula veris,PV11,7,5,5,10,"1 flower stem, not elongated, 10 florets",L10,0.11,2.36,Leaf scan,09,040725,HR.040725.0009.sig,Exhaustive sampling of individual
+Wytham,NPK_DIST,07/04/2025,Primula veris,PV12,7,5,4,5,"2 flower stems, not elongated, 10 florets / 4 florets",L1,0.098,3.08,Leaf scan,10,040725,HR.040725.0010.sig,Exhaustive sampling of individual
+Wytham,NPK_DIST,07/04/2025,Primula veris,PV12,7,5,4,5,"2 flower stems, not elongated, 10 florets / 4 florets",L2,0.055,2.11,Leaf scan,11,040725,HR.040725.0011.sig,Exhaustive sampling of individual
+Wytham,NPK_DIST,07/04/2025,Primula veris,PV12,7,5,4,5,"2 flower stems, not elongated, 10 florets / 4 florets",L3,0.106,3.63,Leaf scan,12,040725,HR.040725.0012.sig,Exhaustive sampling of individual
+Wytham,NPK_DIST,07/04/2025,Primula veris,PV12,7,5,4,5,"2 flower stems, not elongated, 10 florets / 4 florets",L4,0.029,1.3,Leaf scan,13,040725,HR.040725.0013.sig,Exhaustive sampling of individual
+Wytham,NPK_DIST,07/04/2025,Primula veris,PV12,7,5,4,5,"2 flower stems, not elongated, 10 florets / 4 florets",L5,0.078,2.3,Leaf scan,14,040725,HR.040725.0014.sig,Exhaustive sampling of individual
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
